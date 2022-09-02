@@ -9,5 +9,5 @@
 
 
 <p align="center">
-Made with ❤ by [Boshra Jaber](https://github.com/BoshraJaber) and [Ahmad Almohammad](https://github.com/Eng-Ahmad-Almohammad)
+  Made with ❤ by <a href="https://github.com/BoshraJaber"> Boshra Jaber </a> && <a href="https://github.com/Eng-Ahmad-Almohammad"> Ahmad Almohammad </a>
 </p>
